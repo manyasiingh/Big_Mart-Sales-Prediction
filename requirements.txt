@@ -1,0 +1,14 @@
+# Data handling and analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Environment (optional, for running the notebook itself)
+jupyter
